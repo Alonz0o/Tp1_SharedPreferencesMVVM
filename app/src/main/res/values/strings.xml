@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Repartidora Deshuesito</string>
+    <!-- String activity-login -->
+    <string name="tituloLogin">Inicio de sesion</string>
+    <string name="prompt_email">Correo Electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_iniciar_sesion">Iniciar Sesion</string>
+    <string name="action_registrar">Registrar</string>
+    <string name="welcome">"Bienvenido !"</string>
+    <string name="invalid_username">Usuario no valido</string>
+    <string name="invalid_password">La Contraseña debe tener mas de 5 caracteres</string>
+    <string name="invalid_nombre">El Nombre debe tener mas de 30 caracteres</string>
+    <string name="login_fallo">"Error al iniciar sesion"</string>
+    <!--- String activity-login -->
+
+</resources>
